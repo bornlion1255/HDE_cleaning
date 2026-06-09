@@ -1,0 +1,7 @@
+# Никогда не коммитить — содержит пароли и токены
+.streamlit/secrets.toml
+
+# Кэш Python
+__pycache__/
+*.pyc
+.venv/
